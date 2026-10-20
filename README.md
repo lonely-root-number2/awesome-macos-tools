@@ -15,4 +15,5 @@ A modern ebook manager and reader with sync and backup capacities for Windows, m
 ### 5. [noTunes](https://github.com/tombonez/noTunes)
 A simple macOS application that will prevent iTunes or Apple Music from launching. 一个工具阻止连接耳机时自动启动apple music.
 
-
+### 6. [Glim](https://github.com/NeoPanic/Glim)
+Open-source macOS file viewer and basic text editor for Markdown, diagrams, Git diffs and data files. 一个 macOS 开源文件查看器，支持基础文本编辑；PDF 和 Office 预览保持只读。
